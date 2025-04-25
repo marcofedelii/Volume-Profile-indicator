@@ -21,8 +21,9 @@ The source code is proprietary and is not included in this repository.
 
 ## Documentation
 Full technical documentation is available in the `docs/` folder:
-- `VolumeProfile_Report_IT.pdf` – Technical report (Italian)
-- `VolumeProfile_Report_EN.pdf` – Technical report (English)
+- `Volume Profile_ panoramica tecnica ITA.pdf` – Technical report (Italian)
+- `Volume Profile_ A Technical
+Overview ENG.pdf` – Technical report (English)
 
 Included in the documents:
 - Technical breakdown of the indicator logic
